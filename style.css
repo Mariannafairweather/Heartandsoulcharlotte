@@ -1,0 +1,52 @@
+html, body {
+  height: 100%;
+  width: 90vw;
+background-color:#fff8a8;
+  text-align:center;
+  padding-top:0px;
+padding-bottom:20px;
+  padding-left:0px;
+  padding-right:50px;
+  box-sizing:border-box;
+  max-width:800px;
+  margin:auto;
+  font-size: 22px;
+
+
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+p::first-letter { 
+  initial-letter: 10;
+}
+
+  h4 { 
+    margin-bottom:150px;
+    font-family: Baskerville; 
+    font-size: 100px; 
+    font-style: normal; 
+    font-variant: small-caps; 
+    font-weight: 500; 
+  } 
+
+
+
+ img {
+   width: 100%;
+ }
+
+  p { 
+  font-family: 'Josefin Sans', sans-serif;
+  } 
+
+  blockquote { 
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+
+  pre { 
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+
+  
+}
